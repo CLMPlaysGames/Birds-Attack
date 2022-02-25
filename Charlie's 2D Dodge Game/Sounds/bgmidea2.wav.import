@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/bgmidea2.wav-71e874a8d9f8b25ae04cfbc11e459eb3.sample"
+
+[deps]
+
+source_file="res://Sounds/bgmidea2.wav"
+dest_files=[ "res://.import/bgmidea2.wav-71e874a8d9f8b25ae04cfbc11e459eb3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
